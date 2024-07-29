@@ -1,7 +1,0 @@
-<launch>
-    <!-- Start Controls Node -->
-    <node name="controls_node" type="controls_node.py" pkg="my_simple_package" output="screen"/>
-
-    <!-- Start Localization Node -->
-    <node name="localization_node" type="localization_node.py" pkg="my_simple_package" output="screen"/>
-</launch>
