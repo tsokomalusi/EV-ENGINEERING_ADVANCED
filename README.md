@@ -24,11 +24,12 @@
 * Add a new ROS node to an existing project.
 * Configure a ROS publisher and subscriber for seamless communication between the two nodes
 
-## TOOLS/TECHNOLOGIES USED
-Excel
-Visual Studio Code (IDE)
-UBUNTU Linux (WSL)
-ROS
-Python
-Github
+### TOOLS/TECHNOLOGIES USED
+
+* Excel
+* Visual Studio Code (IDE)
+* UBUNTU Linux (WSL)
+* ROS
+* Python
+* Github
 
