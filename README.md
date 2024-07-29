@@ -23,3 +23,12 @@
 * Explore the integration process between various components of a full autonomy stack and their roles in facilitating efficient robotic operations.
 * Add a new ROS node to an existing project.
 * Configure a ROS publisher and subscriber for seamless communication between the two nodes
+
+## TOOLS/TECHNOLOGIES USED
+Excel
+Visual Studio Code (IDE)
+UBUNTU Linux (WSL)
+ROS
+Python
+Github
+
