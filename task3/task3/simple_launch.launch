@@ -1,0 +1,3 @@
+<launch>
+  <node name="simple_node" pkg="my_simple_package" type="simple_node.py" output="screen"/>
+</launch>
